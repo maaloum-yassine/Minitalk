@@ -57,8 +57,8 @@ void	ft_send_signal_reponsed(unsigned int pid)
 
 int	main(int ac, char **av)
 {
-	unsigned int	process_id;
-	char			*binairy;
+	unsigned int			process_id;
+	char				*binairy;
 	int				i;
 	int				j;
 
