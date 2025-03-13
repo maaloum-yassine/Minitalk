@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/minitalkm.png" alt="Push_swap 42 project badge"/>
+  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/minitalkm.png" alt="Minitalk 42 project badge"/>
 </p>
 
 ## 🎥 Score 🥇✅
 <p align="center">
-  <img src="https://github.com/maaloum-yassine/42/blob/main/score/minitalk42.png" alt="Score 42 project 115"/>
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/minitalk42.png" alt="Score 42 project 125"/>
 </p>
 
 
