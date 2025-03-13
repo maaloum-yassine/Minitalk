@@ -1,10 +1,12 @@
-<h1 align="center">
-	minitalk
-</h1>
-
 <p align="center">
-  <img src="https://github.com/riceset/riceset/blob/main/42_badges/minitalke.png" alt="Push_swap 42 project badge"/>
+  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/minitalkm.png" alt="Push_swap 42 project badge"/>
 </p>
+
+## 🎥 Score 🥇✅
+<p align="center">
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/minitalk42.png" alt="Score 42 project 115"/>
+</p>
+
 
 ## Description
 **Minitalk** is a project from 42 School that involves creating a communication program using UNIX signals. The project consists of a **server** and a **client**, where the client sends a string message to the server using `SIGUSR1` and `SIGUSR2` signals.
